@@ -8,6 +8,7 @@
 ![LLM](https://img.shields.io/badge/Model-LLaMA3%2070B-purple)
 
 > A collaborative LLM inference framework that combines speculative inference, dynamic cache scheduling, and tool augmentation – for blazing-fast, memory-efficient, and secure multi-agent reasoning 🔧🧠⚡️
+>
 > *Refining is in progress and will be open source soon.*
 
 ---
